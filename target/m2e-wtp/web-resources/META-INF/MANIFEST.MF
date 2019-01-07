@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: course-api-data
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: M1049214
+Implementation-Vendor-Id: com.mindtree
+Build-Jdk: 1.8.0_102
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/course-api-data
+Created-By: Maven Integration for Eclipse
+
